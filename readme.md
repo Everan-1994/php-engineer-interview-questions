@@ -1481,12 +1481,6 @@
         10. 服务端：服务端使用私钥对加密信息进行解密，获得对称加密的密钥
         n. 数据信道：形成对称加密通道，确保通信安全
     
-    客户端有证书
-
-#### 其他人的面试答案
-    http://coffeephp.com/articles/4?utm_source=laravel-china.org
-    https://laravel-china.org/articles/6844/a-php-interview-for-a-16-year-old-graduate
-    https://todayqq.gitbooks.io/phper/content/
 
 #### 资源集合
     《用 PHP 的方式实现的各类算法合集 》https://github.com/PuShaoWei/arithmetic-php
